@@ -44,22 +44,3 @@ instance.show()
  
 
 
-
-
-// // проверка куда тыцнул и открытие модалки
-
-
-// function onImgClick(evt) {
-//    if (!evt.target.classList.contains('gallery__image')) {
-//     return;
-//   }
-//   // console.log(evt.target.dataset.source)
-
-
-    
-//     document.querySelector('image').onclick = () => {
-
-// 	basicLightbox.create(`
-// 		<img width="1400" height="900" src="https://placehold.it/1400x900">
-// 	`).show()
-
